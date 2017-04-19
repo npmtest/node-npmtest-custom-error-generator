@@ -1,6 +1,6 @@
 # npmtest-custom-error-generator
 
-#### test coverage for  [custom-error-generator (v7.0.0)](https://github.com/jproulx/node-custom-error)  [![npm package](https://img.shields.io/npm/v/npmtest-custom-error-generator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-custom-error-generator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-custom-error-generator.svg)](https://travis-ci.org/npmtest/node-npmtest-custom-error-generator)
+#### basic test coverage for  [custom-error-generator (v7.0.0)](https://github.com/jproulx/node-custom-error)  [![npm package](https://img.shields.io/npm/v/npmtest-custom-error-generator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-custom-error-generator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-custom-error-generator.svg)](https://travis-ci.org/npmtest/node-npmtest-custom-error-generator)
 
 #### Custom errors and exceptions in Node.js
 
